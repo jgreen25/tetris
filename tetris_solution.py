@@ -23,6 +23,7 @@ def printInstructions():
     print("Press Up to rotate counter-clockwise")
     print("Press 'r' to restart.")
     print("Press 'q' to end the game.")
+    print("You pulled! congratulations!")
 
 def tetrisPieces():
     iPiece = [[ True,  True,  True,  True]]
